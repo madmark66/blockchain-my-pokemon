@@ -31,6 +31,6 @@ contract Ethermon is ERC721Full{
         _mint(_to, id);        
     }
     
-/////////////////////////////////////////
+
 }
 
